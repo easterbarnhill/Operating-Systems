@@ -6,3 +6,8 @@ buses which will then connect the device to the computer.
 Another essential component is the security of the OS.  The OS Security ensures the integrity, availability and confidentiality of the computer system.  The 
 security system has very specific tasks to protect the OS from threats, viruses, worms, malware or remote hacker intrusions.  The system then uses all safeguards
 to protect amy copmuter assests from being stolen, deleted or edited if the OS is compromised. 
+
+
+Networking is one of the most important parts of the computer this day in age.  Everyone wants to be connected to the internet and fast as well as connecting to 
+other computers are on your network.  If there are printers or other output devices connected the network will check to be sure all drivers are in place also.
+Database and coomon system fil sharing within the network would be allowed at the stage in boot up.

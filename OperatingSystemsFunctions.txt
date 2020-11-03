@@ -1,3 +1,8 @@
 Device Drivers are an absolute necessity to get any device to to be funftional in your copmuter.  The driver provides the necessary piece of software to
 communicate with the hard drive, allowing OS to communicate without needing precise details. Normally the Device Driver communicates with Hard drive through
 buses which will then connect the device to the computer.
+
+
+Another essential component is the security of the OS.  The OS Security ensures the integrity, availability and confidentiality of the computer system.  The 
+security system has very specific tasks to protect the OS from threats, viruses, worms, malware or remote hacker intrusions.  The system then uses all safeguards
+to protect amy copmuter assests from being stolen, deleted or edited if the OS is compromised. 
